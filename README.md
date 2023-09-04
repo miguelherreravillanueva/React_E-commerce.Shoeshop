@@ -1,1 +1,1 @@
-Creating a shoes e-commerce from with only React
+Creating a shoes e-commerce with only React
