@@ -125,7 +125,7 @@ This project is under license of Miguel Herrera.
 
 - General overview gif
 
-![foto](src/assets/Captura%20de%20pantalla%202023-09-05%20135551.jpeg)
+![foto](src/assets/shoesshop.gif)
 
 
 
