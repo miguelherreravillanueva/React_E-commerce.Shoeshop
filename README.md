@@ -111,15 +111,6 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
-
-This project is under license of Miguel Herrera.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- PREVIEW -->
 ## Preview 
 
