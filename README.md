@@ -1,4 +1,4 @@
-# Shoeshop E-commerce
+# Shoe Store E-commerce
 
 <a name="readme-top"></a>
 
